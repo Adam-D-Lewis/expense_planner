@@ -1,0 +1,4 @@
+#Thu Mar 17 21:29:00 GMT 2022
+base.0=/home/balast/CodingProjects/flutter_play/flutter_udemy_course/expense_planner/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
